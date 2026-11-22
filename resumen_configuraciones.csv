@@ -1,0 +1,6 @@
+config,espera,desv,ic95_mitad,sistema,espera_retiros,espera_pagos,espera_max,replicas_para_error_0_25min
+A: 1 retiros + 2 pagos,5.15,3.17,2.26,8.24,6.35,2.14,30.86,617
+B: 2 retiros + 1 pagos,3.56,1.38,0.99,6.65,1.61,7.9,37.96,117
+C: 3 mixtas,2.78,0.78,0.56,5.87,2.92,2.46,24.48,38
+D: 4 mixtas,2.11,0.63,0.45,5.2,2.18,1.91,25.25,25
+E: 2 retiros + 2 pagos,1.8,0.84,0.6,4.9,1.63,2.09,22.71,44
